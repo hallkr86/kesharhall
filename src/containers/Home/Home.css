@@ -1,7 +1,7 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
-    color: white;
+    color: whitesmoke;
 }
 .container {
     background-image: url(https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
@@ -10,6 +10,7 @@
     border-radius: 8px;
     justify-content: center;
     opacity: 10px;
+    width: 500px;
 }
 .pagebody {
     background-color: lightgrey;
@@ -17,7 +18,8 @@
 .profilepic {
     border-radius: 8px;
     box-shadow: 0 5px 10px #999, 0 5px 10px #999;
-    height: 300px;
+    height: 250px;
+    padding-left: 10px;
     
   
    
@@ -50,4 +52,14 @@ h2 {
     justify-content: center;
     align-content: flex-start;
     color: white;
+}
+section {
+    background-image: url(https://images.pexels.com/photos/4068379/pexels-photo-4068379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    border-radius: 8px;
+    padding-top: 10px;
+    box-shadow: 0 5px 10px rgb(87, 84, 84), 0 5px 10px rgb(88, 86, 86);
+    
+    
+    
+    
 }

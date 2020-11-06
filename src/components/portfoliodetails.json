@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Employee Summary",
     "alt": "employee-summary-app",
-    "img": "../../images/employeesummary.JPG",
+    "img": "../images/employeesummary.JPG",
     "url": "https://drive.google.com/file/d/1cBKCHS-xwyrDUVUHWi-X4jL3sDxoLcs6/view",
     "github": "https://github.com/hallkr86/10-employee-summary"
     },
@@ -11,7 +11,7 @@
     "id": 2,
     "title": "Budget Tracker",
     "alt": "budget-tracker-app",
-    "img": "../../images/budgettracker.JPG",
+    "img": "../images/budgettracker.JPG",
     "url": "https://budget-app-khall.herokuapp.com/",
     "github": "https://github.com/hallkr86/hw-18-budget-tracker"
     },
@@ -19,7 +19,7 @@
     "id": 3,
     "title": "Workout Tracker",
     "alt": "workout-tracker",
-    "img": "../../images/workouttracker.JPG",
+    "img": "../images/workouttracker.JPG",
     "url": "https://workout-kh.herokuapp.com/?id=5f939e2c6a68e700178e0d56",
     "github": "https://github.com/hallkr86/hw-17-workout-tracker"
     },
@@ -27,7 +27,7 @@
     "id": 4,
     "title": "Employee Directory",
     "alt": "employee-directory",
-    "img": "../../images/employeedirectory.JPG",
+    "img": "../images/employeedirectory.JPG",
     "url": "https://hallkr86.github.io/hw-19-employee-directory/",
     "github": "https://github.com/hallkr86/hw-19-employee-directory"
     },
@@ -35,7 +35,7 @@
     "id": 5,
     "title": "Password Generator",
     "alt": "password-generator",
-    "img": "../../images/passwordgeneratorscreenshot.JPG",
+    "img": "../images/passwordgeneratorscreenshot.JPG",
     "url": "https://hallkr86.github.io/hw-03-password-generator/",
     "github": "https://github.com/hallkr86/hw-03-password-generator"
     },
@@ -43,7 +43,7 @@
     "id": 6,
     "title": "Workday Scheduler",
     "alt": "workday-scheduler",
-    "img": "../../images/workdayscheduler.jpg",
+    "img": "../images/workdayscheduler.jpg",
     "url": "https://hallkr86.github.io/hw-05-third-party-APIs/",
     "github": "https://github.com/hallkr86/hw-05-third-party-APIs"
     },
@@ -51,7 +51,7 @@
     "id": 7,
     "title": "My Resume",
     "alt": "kh-resume",
-    "img": "keshahallwebdevelopmentresume",
+    "img": "../images/keshahallwebdevelopmentresume.pdf",
     "url": "https://docs.google.com/document/d/1KSDZQNdrSok0f2JAKRzXPf3XHtX7tA_hiVK1tSrb2KA/edit?usp=sharing"
     }
 ]

@@ -7,8 +7,10 @@ const Home = () => {
         <div className= "pagebody">
         <div className= "container">
             <h2>Hi, I'm Kesha!</h2>
+            <section>
             <div className= "row">
             <div className= "col-md-4">
+            
             <img src={profilepic} className={"profilepic"} alt="keshapic" />
             </div>
             <div className= "col-md-8">
@@ -24,8 +26,10 @@ const Home = () => {
 
             <p> During my rare down time, I enjoy walking trails, diy projects,
             playing in makeup, and spending time with my family. </p>
+           
             </div>
             </div>
+            </section>
         </div>
         </div>
         
