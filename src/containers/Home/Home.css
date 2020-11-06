@@ -1,0 +1,53 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: white;
+}
+.container {
+    background-image: url(https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-size: cover;
+    height: 700px;
+    border-radius: 8px;
+    justify-content: center;
+    opacity: 10px;
+}
+.pagebody {
+    background-color: lightgrey;
+}
+.profilepic {
+    border-radius: 8px;
+    box-shadow: 0 5px 10px #999, 0 5px 10px #999;
+    height: 300px;
+    
+  
+   
+    
+}
+h2 {
+    animation-duration: 5s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+      
+@keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%; 
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
+  .navbar{
+    justify-content: center;
+    align-content: flex-start;
+    color: white;
+}
+.nav-item {
+    justify-content: center;
+    align-content: flex-start;
+    color: white;
+}
